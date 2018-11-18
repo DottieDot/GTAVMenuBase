@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GTAVMenuBase", "GTAVMenuBase\GTAVMenuBase.vcxproj", "{4BFF169A-3747-4FED-9357-2C0ACAC7EA67}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestImplement", "TestImplement\TestImplement.vcxproj", "{79D6FDBC-D0DE-452F-AB77-C1E28567DCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFF169A-3747-4FED-9357-2C0ACAC7EA67}.Debug|x64.ActiveCfg = Debug|x64
+		{4BFF169A-3747-4FED-9357-2C0ACAC7EA67}.Debug|x64.Build.0 = Debug|x64
+		{4BFF169A-3747-4FED-9357-2C0ACAC7EA67}.Debug|x86.ActiveCfg = Debug|x64
+		{4BFF169A-3747-4FED-9357-2C0ACAC7EA67}.Release|x64.ActiveCfg = Release|x64
+		{4BFF169A-3747-4FED-9357-2C0ACAC7EA67}.Release|x64.Build.0 = Release|x64
+		{4BFF169A-3747-4FED-9357-2C0ACAC7EA67}.Release|x86.ActiveCfg = Release|x64
+		{79D6FDBC-D0DE-452F-AB77-C1E28567DCCB}.Debug|x64.ActiveCfg = Debug|x64
+		{79D6FDBC-D0DE-452F-AB77-C1E28567DCCB}.Debug|x64.Build.0 = Debug|x64
+		{79D6FDBC-D0DE-452F-AB77-C1E28567DCCB}.Debug|x86.ActiveCfg = Debug|x64
+		{79D6FDBC-D0DE-452F-AB77-C1E28567DCCB}.Release|x64.ActiveCfg = Release|x64
+		{79D6FDBC-D0DE-452F-AB77-C1E28567DCCB}.Release|x64.Build.0 = Release|x64
+		{79D6FDBC-D0DE-452F-AB77-C1E28567DCCB}.Release|x86.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A90349-A9D2-43B3-B26B-3BD65788FDA9}
+	EndGlobalSection
+EndGlobal
